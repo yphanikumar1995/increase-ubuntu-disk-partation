@@ -1,4 +1,4 @@
-# increase-ubuntu-disk-partation
+# Increase-ubuntu-disk-partation
 
 
 To expand a disk partition in Ubuntu using `parted`, follow these steps carefully. This assumes you're resizing a partition on `/dev/sdb` and that you have a clear understanding of the changes you're about to make.
